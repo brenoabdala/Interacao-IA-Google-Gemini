@@ -1,4 +1,4 @@
-## Interação com o Gemini via Python
+## Interação com o Google Gemini via Python
 
 O código realiza o acesso ao Google Gemini e realiza perguntas a IA via prompt de comando, obtendo as resposta pela própria linha de comando.
 
